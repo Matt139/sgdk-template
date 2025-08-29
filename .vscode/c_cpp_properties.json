@@ -1,0 +1,14 @@
+{
+	"configurations": [
+		{
+			"name": "sgdk",
+			"includePath": [
+				"${env:GDK}\\inc",
+				"${env:GDK}\\res",
+				"res",
+				"inc"            
+			]
+		}
+	],
+	"version": 4
+}
